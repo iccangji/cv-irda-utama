@@ -45,3 +45,4 @@ LICENSE
 
 backend/logs/combined.log
 backend/logs/http_logs.log
+backend/uploads/
