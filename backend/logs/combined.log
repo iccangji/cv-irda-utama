@@ -1182,3 +1182,16 @@
 {"level":"info","message":"Running on PORT 5000"}
 {"level":"info","message":"Database connected"}
 {"level":"error","message":"ER_SP_UNDECLARED_VAR: Undeclared variable: NaN"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
