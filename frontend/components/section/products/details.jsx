@@ -39,7 +39,7 @@ const DetailsProduct = ({ product }) => {
             <hr className='w-full border-[1px] border-gray-300 dark:border-gray-700 px-16' />
             <div className="relative w-full mx-auto my-8 flex flex-col md:flex-row px-6 md:px-10 gap-8 md:gap-4 items-between">
                 <div className="flex w-1/2 justify-center">
-                    <Image src={`${process.env.NEXT_PUBLIC_BACKEND_URL}/uploads/${product.image}`} alt={product.name} className="md:w-5/6 md:h-5/6 object-cover" width={500} height={500} />
+                    <Image src={`${process.env.NEXT_PUBLIC_BACKEND_URL}/api/uploads/${product.image}`} alt={product.name} className="md:w-5/6 md:h-5/6 object-cover" width={500} height={500} />
                 </div>
                 <div className="flex flex-col w-full md:w-1/3 items-start">
                     <div className="text-3xl text-gray-900 dark:text-white font-bold">{product.name}</div>

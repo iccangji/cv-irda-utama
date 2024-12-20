@@ -10,7 +10,7 @@ const EditProductModal = ({ product, onClose, onSuccess }) => {
     const [isReady, setIsReady] = useState(product.isReady === 1)
     const [loading, setLoading] = useState(false)
     const [error, setError] = useState("")
-    const [imageUrl, setImageUrl] = useState(`${process.env.NEXT_PUBLIC_BACKEND_URL}/uploads/${product.image}`);
+    const [imageUrl, setImageUrl] = useState(`${process.env.NEXT_PUBLIC_BACKEND_URL}/api/uploads/${product.image}`);
     const [fileUpload, setFileUpload] = useState("");
     const [categories, setCategories] = useState([]);
 
