@@ -8,6 +8,7 @@ if (!fs.existsSync(uploadDir)) {
 }
 
 const storage = multer.diskStorage({
+    limits: { fileSize: 2 * 1024 * 1024 },
     destination: (req, file, cb) => {
         cb(null, "./uploads/");
     },
@@ -29,6 +30,10 @@ const fileFilter = (req, file, cb) => {
     }
 };
 
-const upload = multer({ storage, fileFilter });
+const upload = multer({
+    storage: storage,
+    fileFilter: fileFilter,
+    limits: { fileSize: 20 * 1024 * 1024 },
+});
 
 module.exports = { upload };
