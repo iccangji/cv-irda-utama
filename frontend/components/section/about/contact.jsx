@@ -34,11 +34,11 @@ const Contact = () => {
 					<ul className='flex flex-1 flex-col text-white gap-1 items-start justify-between w-80 grow mt-1'>
 						<div className="flex items-center gap-2 md:h-20">
 							<PhoneIcon width={24} height={24} className='text-gray-900 dark:text-white' />
-							<p className="text-gray-900 dark:text-white py-2 text-md font-medium">081234567890</p>
+							<p className="text-gray-900 dark:text-white py-2 text-md font-medium">085345120873</p>
 						</div>
 						<div className="flex items-center gap-2">
 							<Image width={24} height={24} src={`/img/whatsapp-${currentTheme === 'dark' ? 'white' : 'black'}.svg`} className={`text-gray-900 dark:text-white`} alt="Whatsapp" />
-							<p className="text-gray-900 dark:text-white py-2 text-md font-medium">081234567890</p>
+							<p className="text-gray-900 dark:text-white py-2 text-md font-medium">085311868373</p>
 						</div>
 					</ul>
 				</div>
