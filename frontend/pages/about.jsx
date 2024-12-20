@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import About from '../components/section/about'
+import Testimony from '../components/section/about/testimony'
 import Location from '../components/section/location'
 import Footer from '../components/section/footer'
 import Navbar from '../components/section/navbar'
@@ -34,7 +35,8 @@ export default function AboutUs() {
 				</header>
 				{/* Main Section */}
 				<About enableBackground={true} />
-				<Location enableBackground={false} />
+				<Testimony />
+				<Location enableBackground={true} />
 				<Contact />
 				{/* Footer */}
 			</div>

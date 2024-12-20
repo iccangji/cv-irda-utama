@@ -20,7 +20,7 @@ function MessageButton() {
             <button
                 onMouseEnter={handleMouseEnter}
                 onMouseLeave={handleMouseLeave}
-                onClick={() => window.open("https://wa.me/6281234567890")}
+                onClick={() => window.open("https://wa.me/6285345120873")}
                 className={`fixed bottom-5 right-5 bg-primary text-white p-3 px-4 rounded-full shadow-lg focus:outline-none transition duration-300 ease-in-out transform hover:scale-105 z-40 flex gap-2`}
             >
                 <Image width={24} height={24} src="/img/whatsapp-white.svg" alt="Whatsapp" className={`text-white transition-all duration-500`} />

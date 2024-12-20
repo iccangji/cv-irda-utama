@@ -58,8 +58,8 @@ const ProductsTable = ({ data, handleOpenEditModal, handleOpenDeleteModal, onNex
                                     <label className="sr-only">checkbox</label>
                                 </div>
                             </td> */}
-                            <td className="p-4 w-32 h-20">
-                                <Image src={`${process.env.NEXT_PUBLIC_BACKEND_URL}/api/uploads/${item.image}`} alt={item.name} width={300} height={300} className={`object-cover w-32 h-32 md:w-24 md:h-24`} />
+                            <td className="md:ps-4 ps-2 w-96 md:w-40 h-20">
+                                <Image src={`${process.env.NEXT_PUBLIC_BACKEND_URL}/api/uploads/${item.image}`} alt={item.name} width={300} height={300} className={`object-cover w-full h-12 md:w-24 md:h-24`} />
                             </td>
                             <th scope="row" className="px-6 py-4 font-medium text-gray-900 dark:text-white">
                                 {item.name}

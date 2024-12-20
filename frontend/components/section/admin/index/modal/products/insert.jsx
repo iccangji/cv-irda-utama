@@ -90,7 +90,7 @@ const InsertProductModal = ({ onClose, onSuccess }) => {
     }, []);
     return (
         <div
-            className="fixed top-50 left-0 right-0 z-50 items-center justify-center w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] min-h-full bg-gray-900 bg-opacity-50 flex scrollbar-hide pb-10"
+            className="fixed top-50 left-0 right-0 z-50 items-center justify-center w-full p-4 overflow-x-hidden overflow-y-auto inset-0 h-[calc(100%-1rem)] min-h-full bg-gray-900 bg-opacity-50 flex scrollbar-hide pb-10"
         >
             {loading && (<div className="absolute top-50 left-50 z-20"><ClipLoader size={120} color='#ff9247' cssOverride={{ display: 'block' }} /></div>)}
             <div className="relative w-full max-w-2xl max-h-full">

@@ -38,3 +38,6 @@ yarn-error.log*
 .vercel
 
 LICENSE
+
+backend/logs
+frontend/next.config.js

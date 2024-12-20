@@ -65,12 +65,12 @@ const Footer = () => {
 					</span>
 					<ul className='flex flex-col text-white gap-1 items-start mt-1'>
 						<div className="flex items-center gap-2">
-							<PhoneIcon width={24} height={24} className='text-gray-400' />
-							<p className="text-gray-400 py-2 text-sm">081234567890</p>
+							<Image width={24} height={24} src="/img/whatsapp.svg" alt="Whatsapp" />
+							<p className="text-gray-400 py-2 text-sm">085345120873</p>
 						</div>
 						<div className="flex items-center gap-2">
 							<Image width={24} height={24} src="/img/whatsapp.svg" alt="Whatsapp" />
-							<p className="text-gray-400 py-2 text-sm">081234567890</p>
+							<p className="text-gray-400 py-2 text-sm">085311868373</p>
 						</div>
 					</ul>
 				</div>
