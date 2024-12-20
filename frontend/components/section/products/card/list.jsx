@@ -9,7 +9,7 @@ const CategoryProductsCard = ({ name, id, category, price, image, sizeCard, size
             onClick={() => router.push(`/products/${id}`)}
         >
             <div className={`px-4 py-2 md:py-4 flex flex-col items-center ${sizeCard}`}>
-                <Image src={`${process.env.NEXT_PUBLIC_BACKEND_URL}/uploads/${image}`} alt={name} width={300} height={300} className={`object-cover ${sizeImg}`} />
+                <Image src={`${process.env.NEXT_PUBLIC_BACKEND_URL}/api/uploads/${image}`} alt={name} width={300} height={300} className={`object-cover ${sizeImg}`} />
             </div>
             <div className='pt-2 px-8 flex flex-col items-start'>
                 <h3 className='mt-1 mb-1 text-primary dark:text-primary-800 text-sm font-bold'>

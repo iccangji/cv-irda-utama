@@ -9,7 +9,7 @@ const CarouselProductsCard = ({ name, id, category, price, image }) => {
             onClick={() => router.push(`/products/${id}`)}
         >
             <div className='p-6 flex flex-col items-center'>
-                <Image src={`${process.env.NEXT_PUBLIC_BACKEND_URL}/uploads/${image}`} alt={name} width={800} height={500} className='h-[120px] md:h-[160px] w-[120px] md:w-[360px] object-cover' />
+                <Image src={`${process.env.NEXT_PUBLIC_BACKEND_URL}/api/uploads/${image}`} alt={name} width={800} height={500} className='h-[120px] md:h-[160px] w-[120px] md:w-[360px] object-cover' />
             </div>
             <hr className='border-b border-gray-400 dark:border-white' />
             <div className='pt-2 px-8 flex flex-col items-center text-center'>
