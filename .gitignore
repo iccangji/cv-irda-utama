@@ -2,6 +2,7 @@
 
 # dependencies
 /backend/node_modules
+/backend/logs
 /frontend/node_modules
 /.pnp
 .pnp.js 
@@ -34,10 +35,13 @@ yarn-error.log*
 .env.production.local
 .env
 
+/backend/logs
+/frontend/next.config.js
+
 # vercel
 .vercel
 
 LICENSE
 
-backend/logs
-frontend/next.config.js
+backend/logs/combined.log
+backend/logs/http_logs.log
