@@ -1,0 +1,1184 @@
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-utama' at line 1"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_EMPTY_QUERY: Query was empty"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Table products created!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Table products created!"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'db_irda_utama.alat' doesn't exist"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1"}
+{"level":"error","message":"ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'image' cannot be null"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'image' cannot be null"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'image' cannot be null"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: 'true' for column 'isReady' at row 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"connect ECONNREFUSED 0.0.0.0:3306"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,\n    updatedAt TIMESTAMP DEFAULT C' at line 10"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Table products created!"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Table products created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: 'eee' for column 'price' at row 1"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"connect ECONNREFUSED 0.0.0.0:3306"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"Cannot enqueue Query after fatal error."}
+{"level":"error","message":"Cannot enqueue Query after fatal error."}
+{"level":"error","message":"Cannot enqueue Query after fatal error."}
+{"level":"error","message":"Cannot enqueue Query after fatal error."}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Table products created!"}
+{"level":"info","message":"Table products created!"}
+{"level":"info","message":"DB Dropped!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Table products created!"}
+{"level":"info","message":"Table categories created!"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-50' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE nama_produk LIKE '%%' LIMIT 20 OFFSET 0' at line 1"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE nama_produk LIKE '' LIMIT 20 OFFSET 0' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE nama_produk LIKE '\\\"Barang\\\"' LIMIT 20 OFFSET 0' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE nama_produk LIKE \"'\\\"Barang\\\"'\" LIMIT 20 OFFSET 0' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE name LIKE '\\\"Barang\\\"' LIMIT 20 OFFSET 0' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE name LIKE '\\\"Barang\\\"' LIMIT 20 OFFSET 0' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE name LIKE 'Barang' LIMIT 20 OFFSET 0' at line 1"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"DB Dropped!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Table categories created!"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY (category) REFERENCES category(id) ON DELETE SET NULL\n)' at line 12"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Table categories created!"}
+{"level":"error","message":"ER_FK_COLUMN_NOT_NULL: Column 'category' cannot be NOT NULL: needed in a foreign key constraint 'products_ibfk_1' SET NULL"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Table categories created!"}
+{"level":"error","message":"ER_FK_CANNOT_OPEN_PARENT: Failed to open the referenced table 'category'"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Table categories created!"}
+{"level":"error","message":"ER_FK_CANNOT_OPEN_PARENT: Failed to open the referenced table 'category'"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Table categories created!"}
+{"level":"info","message":"Table products created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'db_irda_utama.category' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'db_irda_utama.category' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'db_irda_utama.category' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'db_irda_utama.category' doesn't exist"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'db_irda_utama.category' doesn't exist"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'db_irda_utama.category' doesn't exist"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_NON_UNIQ_ERROR: Column 'name' in where clause is ambiguous"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_NON_UNIQ_ERROR: Column 'updatedAt' in order clause is ambiguous"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"DB Dropped!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Table categories created!"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RESTRICT\n)' at line 12"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Table categories created!"}
+{"level":"info","message":"Table products created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_BAD_FIELD_ERROR: Unknown column 'products.category_id' in 'on clause'"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''DekHvFyDPt'' at line 1"}
+{"level":"error","message":"ER_NO_DB_ERROR: No database selected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''riBLLsotrL'' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''yqgtWAYwHL'' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''pcwuqqtdun'' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''kzGqAAszVB'' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''KNENqZbEPo'' at line 1"}
+{"level":"error","message":"ER_NO_DB_ERROR: No database selected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Categories seeded!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":["BHeATUYxnt","DrOfVZWioa","esWKSnmESQ"]}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":["BHeATUYxnt","DrOfVZWioa","esWKSnmESQ"]}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":["BHeATUYxnt","DrOfVZWioa","esWKSnmESQ"]}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":["BHeATUYxnt","DrOfVZWioa","esWKSnmESQ"]}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":["BHeATUYxnt","DrOfVZWioa","esWKSnmESQ"]}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":["BHeATUYxnt","DrOfVZWioa","esWKSnmESQ"]}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"categories: BHeATUYxnt,DrOfVZWioa,esWKSnmESQ"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"categories: BHeATUYxnt,DrOfVZWioa,esWKSnmESQ"}
+{"level":"info","message":"products: [object Promise]"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"categories: BHeATUYxnt,DrOfVZWioa,esWKSnmESQ"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"categories: BHeATUYxnt,DrOfVZWioa,esWKSnmESQ"}
+{"level":"error","message":"ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: 'BHeATUYxnt' for column 'category' at row 1"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"categories: 7,8,9"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Table categories created!"}
+{"level":"info","message":"Table products created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"categories: "}
+{"level":"info","message":"Products seeded!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Categories seeded!"}
+{"level":"info","message":"categories: 1,2,3,4,5,6,7,8,9,10"}
+{"level":"info","message":"Products seeded!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Categories seeded!"}
+{"level":"info","message":"categories: 11,12,13"}
+{"level":"info","message":"Products seeded!"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''10' OFFSET NaN' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? ORDER BY views DESC, updatedAt DESC LIMIT 10' at line 1"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? ORDER BY products.views DESC, products.updatedAt DESC LIMIT 10' at line 1"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"connect ECONNREFUSED 0.0.0.0:3306"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"error","message":"ER_SP_UNDECLARED_VAR: Undeclared variable: NaN"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_BAD_FIELD_ERROR: Unknown column 'view' in 'field list'"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 5000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_SP_UNDECLARED_VAR: Undeclared variable: NaN"}

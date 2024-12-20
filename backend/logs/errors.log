@@ -1,0 +1,106 @@
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-utama' at line 1"}
+{"level":"error","message":"ER_EMPTY_QUERY: Query was empty"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'db_irda_utama.alat' doesn't exist"}
+{"level":"error","message":"ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1"}
+{"level":"error","message":"ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'image' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'image' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'image' cannot be null"}
+{"level":"error","message":"ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: 'true' for column 'isReady' at row 1"}
+{"level":"error","message":"connect ECONNREFUSED 0.0.0.0:3306"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? WHERE id = ?' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,\n    updatedAt TIMESTAMP DEFAULT C' at line 10"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_BAD_DB_ERROR: Unknown database 'db_irda_utama'"}
+{"level":"error","message":"ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: 'eee' for column 'price' at row 1"}
+{"level":"error","message":"connect ECONNREFUSED 0.0.0.0:3306"}
+{"level":"error","message":"Cannot enqueue Query after fatal error."}
+{"level":"error","message":"Cannot enqueue Query after fatal error."}
+{"level":"error","message":"Cannot enqueue Query after fatal error."}
+{"level":"error","message":"Cannot enqueue Query after fatal error."}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-50' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE nama_produk LIKE '%%' LIMIT 20 OFFSET 0' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE nama_produk LIKE '' LIMIT 20 OFFSET 0' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE nama_produk LIKE '\\\"Barang\\\"' LIMIT 20 OFFSET 0' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE nama_produk LIKE \"'\\\"Barang\\\"'\" LIMIT 20 OFFSET 0' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE name LIKE '\\\"Barang\\\"' LIMIT 20 OFFSET 0' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE name LIKE '\\\"Barang\\\"' LIMIT 20 OFFSET 0' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE name LIKE 'Barang' LIMIT 20 OFFSET 0' at line 1"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'name' cannot be null"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY (category) REFERENCES category(id) ON DELETE SET NULL\n)' at line 12"}
+{"level":"error","message":"ER_FK_COLUMN_NOT_NULL: Column 'category' cannot be NOT NULL: needed in a foreign key constraint 'products_ibfk_1' SET NULL"}
+{"level":"error","message":"ER_FK_CANNOT_OPEN_PARENT: Failed to open the referenced table 'category'"}
+{"level":"error","message":"ER_FK_CANNOT_OPEN_PARENT: Failed to open the referenced table 'category'"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'db_irda_utama.category' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'db_irda_utama.category' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'db_irda_utama.category' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'db_irda_utama.category' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'db_irda_utama.category' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'db_irda_utama.category' doesn't exist"}
+{"level":"error","message":"ER_NON_UNIQ_ERROR: Column 'name' in where clause is ambiguous"}
+{"level":"error","message":"ER_NON_UNIQ_ERROR: Column 'updatedAt' in order clause is ambiguous"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RESTRICT\n)' at line 12"}
+{"level":"error","message":"ER_BAD_FIELD_ERROR: Unknown column 'products.category_id' in 'on clause'"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''DekHvFyDPt'' at line 1"}
+{"level":"error","message":"ER_NO_DB_ERROR: No database selected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''riBLLsotrL'' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''yqgtWAYwHL'' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''pcwuqqtdun'' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''kzGqAAszVB'' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''KNENqZbEPo'' at line 1"}
+{"level":"error","message":"ER_NO_DB_ERROR: No database selected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"error","message":"ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: 'BHeATUYxnt' for column 'category' at row 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''10' OFFSET NaN' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? ORDER BY views DESC, updatedAt DESC LIMIT 10' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? ORDER BY products.views DESC, products.updatedAt DESC LIMIT 10' at line 1"}
+{"level":"error","message":"connect ECONNREFUSED 0.0.0.0:3306"}
+{"level":"error","message":"ER_SP_UNDECLARED_VAR: Undeclared variable: NaN"}
+{"level":"error","message":"ER_BAD_FIELD_ERROR: Unknown column 'view' in 'field list'"}
+{"level":"error","message":"ER_SP_UNDECLARED_VAR: Undeclared variable: NaN"}

@@ -1,0 +1,32 @@
+/* ./styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+	scroll-behavior: smooth;
+}
+
+:root {
+	--primary-color: #58a840;
+	--secondary-color: #ff9247;
+
+}
+
+.btn {
+	@apply shadow-md py-3 px-6 rounded-md transition duration-300;
+}
+
+.btn-primary {
+	@apply bg-primary text-white hover:bg-white hover:text-black;
+}
+
+.btn-white {
+	@apply bg-white hover:bg-primary hover:text-white;
+}
+
+@layer base {
+	body {
+		@apply dark:bg-gray-900 bg-white dark:text-gray-600
+	}
+}
