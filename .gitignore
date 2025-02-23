@@ -46,3 +46,6 @@ LICENSE
 backend/logs/combined.log
 backend/logs/http_logs.log
 backend/uploads/
+backend/logs/combined.log
+backend/logs/errors.log
+backend/logs/http_logs.log
